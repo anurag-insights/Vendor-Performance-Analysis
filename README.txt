@@ -4,30 +4,22 @@ Overview
 This project focuses on analyzing vendor performance based on sales data. It involves data ingestion, cleaning, exploratory data analysis (EDA), automation of summary generation, and dashboard development using Power BI. The project concludes with a comprehensive report containing actionable insights.
 
 Project Structure
-Vendor+AF8-Performance+AF8-Data+AF8-Analysis/
-+JRwlACUA- Dashboard/
-+JQI-   +JRQlACUA- vendor+AF8-performance.pbix
-+JRwlACUA- data/
-+JQI-   +JRwlACUA- vendor+AF8-sales+AF8-summary.csv
-+JQI-   +JRQlACUA- Raw+AF8-Data/
-+JQI-       +JRwlACUA- begin+AF8-inventory.csv
-+JQI-       +JRwlACUA- begin+AF8-inventory-checkpoint.csv
-+JQI-       +JRwlACUA- end+AF8-inventory.csv
-+JQI-       +JRwlACUA- purchase+AF8-prices.csv
-+JQI-       +JRwlACUA- purchases.csv
-+JQI-       +JRwlACUA- sales.csv
-+JQI-       +JRQlACUA- vendor+AF8-invoice.csv
-+JRwlACUA- Python+AF8-files/
-+JQI-   +JRwlACUA- Exploratory Data Analysis.ipynb
-+JQI-   +JRQlACUA- Vendor Performance Analysis.ipynb
-+JRwlACUA- Reports/
-+JQI-   +JRQlACUA- Vendor Performance Report.pdf
-+JRwlACUA- Scripts/
-+JQI-   +JRwlACUA- get+AF8-vendor+AF8-summary.py
-+JQI-   +JRQlACUA- ingestion+AF8-db.py
-+JRwlACUA- Business+AF8-Problem.txt
-+JRQlACUA- README.md
-
+```
+Vendor_Performance_Data_Analysis/
+©À©¤©¤ Dashboard/
+©¦   ©¸©¤©¤ vendor_performance.pbix
+©À©¤©¤ data/
+©¦   ©À©¤©¤ vendor_sales_summary.csv©¦           
+©À©¤©¤ Python_files/
+©¦   ©À©¤©¤ Exploratory Data Analysis.ipynb
+©¦   ©¸©¤©¤ Vendor Performance Analysis.ipynb
+©À©¤©¤ Reports/
+©¦   ©¸©¤©¤ Vendor Performance Report.pdf
+©À©¤©¤ Scripts/
+©¦   ©À©¤©¤ get_vendor_summary.py
+©¦   ©¸©¤©¤ ingestion_db.py
+©À©¤©¤ Business_Problem.txt
+©¸©¤©¤ README.md```
 Tech Stack
 - Languages: Python (Pandas, Matplotlib, Seaborn)
 - Tools: Jupyter Notebook, Power BI, Excel
